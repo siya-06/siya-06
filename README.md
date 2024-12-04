@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @siya-06
-- 👀 I’m interested in development.
-- 🌱 I’m currently learning web dev,dsa,app dev
-- 📫 How to reach me www.linkedin.com/in/siya-srivastava-522246229
+- 👀 I’m interested in web development.
+- 🌱 I’m currently learning web dev,dsa,app dev.
+- 📫 How to reach me: www.linkedin.com/in/siya-srivastava-522246229
 - 😄 Pronouns: she/her
 
 <!---
