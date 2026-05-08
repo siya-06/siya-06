@@ -11,7 +11,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/siya-srivastava-522246229)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/siya-06)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/U7sN5bVbsw/)
 [![Open to Internships](https://img.shields.io/badge/⬤_Open_to_Internships-3fb950?style=flat-square&logoColor=white)](#)
 [![CGPA](https://img.shields.io/badge/CGPA-9.26%20%2F%2010-58a6ff?style=flat-square)](#)
 
