@@ -151,7 +151,6 @@ class Siya:
 ### Connect With Me
 
 📧 siyasrivastavass@gmail.com  
-📍 Lucknow, India
 
 <i>building things that think.</i>
 
